@@ -1,0 +1,33 @@
+* {
+  text-transform: uppercase;
+  color: crimson;
+}
+
+p {
+  color: green;
+}
+
+h1 {
+  color: #32aa25;
+}
+
+div {
+  background-color: gray;
+  padding: 5px;
+}
+
+article ul li a {
+  text-decoration: none;
+  color: red;
+  background-color: black;
+}
+
+article ul li a:hover {
+  text-decoration: none;
+  color: greenyellow;
+  background-color: black;
+}
+div label,
+div p {
+  color: greenyellow;
+}
